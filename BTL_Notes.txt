@@ -1,0 +1,4 @@
+
+Set vs Map:
+* They are both implemented using red black binary search tree, but set only stores KEYS while map store KEY VALUE pair. \
+* Unordered is when they are not.. ordered/prioritized, so unordered map is a hash table.
